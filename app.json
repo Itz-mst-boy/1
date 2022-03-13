@@ -1,9 +1,9 @@
 {
-    "name": "AlishaMusic",
-    "logo": "https://telegra.ph/file/fd880593afcb71a2c02cd.jpg",
+    "name": "Mukeshmusic",
+    "logo": "https://telegra.ph/file/7fa9017265d3d6f51d191.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/khushbuxabhi/SuperMusic",
+    "repository": "https://github.com/itz-mst-boy/SuperMusic",
     "stack": "container",
     "env": {
         "API_ID": {
